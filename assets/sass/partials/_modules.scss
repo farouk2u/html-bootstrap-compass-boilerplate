@@ -1,0 +1,25 @@
+/* ==|======================
+   MODULES
+============================ */
+
+/* Misc
+---------------------------------*/
+
+
+/* Titles
+---------------------------------*/
+
+
+/* Buttons
+---------------------------------*/
+
+
+/* Icons
+---------------------------------*/
+$icons-sprite-dimensions: true;  // To read more go to : http://compass-style.org/help/tutorials/spriting/
+@import "icons/*.png";
+@include all-icons-sprites;
+
+
+
+

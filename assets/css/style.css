@@ -1,0 +1,81 @@
+/*
+--------------------------------------------------
+ * Project : Html Bootstrap Compass Boilerplate
+ * Version: 1.0
+ * Author: @Farouk2u
+ * URI : github.com/farouk2u/html-bootstrap-compass-boilerplate
+ *============================================
+ */
+ /* ==|====================
+   VENDOR
+=========================== */
+ /* ==|====================
+   PARTIALS
+=========================== */
+/* ==|====================
+   VARIABLES
+=========================== */
+/* Colors
+---------------------------------------*/
+/* Colors
+---------------------------------------*/
+/* ==|=========================
+   BASE
+================================ */
+/* line 7, ../sass/partials/_base.scss */
+body {
+  font-family: "Open Sans", sans-serif;
+}
+/* line 12, ../sass/partials/_base.scss */
+body * {
+  outline: none !important;
+}
+
+/* ==|======================
+   MODULES
+============================ */
+/* Misc
+---------------------------------*/
+/* Titles
+---------------------------------*/
+/* Buttons
+---------------------------------*/
+/* Icons
+---------------------------------*/
+/* line 48, icons/*.png */
+.icons-sprite, .icons-compass {
+  background-image: url('../images/icons-se74a4ac948.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-compass {
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+}
+
+/* ==|=====================
+   LAYOUT
+=========================== */
+/* Header 
+---------------------------------------*/
+/* Footer
+---------------------------------------*/
+/* ==|=====================
+   HELPERS
+=========================== */
+/* line 7, ../sass/partials/_helpers.scss */
+.text-bold {
+  font-weight: bold !important;
+}
+
+/* line 11, ../sass/partials/_helpers.scss */
+.padding-0 {
+  padding: 0 !important;
+}
+
+/* line 15, ../sass/partials/_helpers.scss */
+.padding-t-0 {
+  padding-top: 0 !important;
+}
