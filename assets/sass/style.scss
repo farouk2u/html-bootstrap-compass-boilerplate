@@ -10,6 +10,7 @@
  /* ==|====================
    VENDOR
 =========================== */
+@import "compass";
 //@import "vendor/bootstrap/bootstrap"; // Uncomment for production
 
 
@@ -22,6 +23,11 @@
 @import "partials/layout";
 @import "partials/helpers";
 
+
+/* ==|====================
+  Pages
+=========================== */
+@import "partials/pages/home";
 
 
 
