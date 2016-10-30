@@ -1,6 +1,6 @@
 ##Html, Bootstrap & Sass/Compass Boilerplate
 
-An Html, Bootstrap & Sass/Compass Boilerplate to star a clean and originzed project (Inspired by Smacss & Initializr)
+An Html, Bootstrap & Sass/Compass Boilerplate to star a clean and organized project (Inspired by Smacss & Initializr)
 
 ![screenshot](/screenshot.jpg?raw=true "screenshot")
 
