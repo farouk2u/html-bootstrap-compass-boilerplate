@@ -20,6 +20,9 @@ $icons-sprite-dimensions: true;  // To read more go to : http://compass-style.or
 @import "icons/*.png";
 @include all-icons-sprites;
 
+*[class^="icons"] {
+  display: inline-block;
+}
 
 
 
